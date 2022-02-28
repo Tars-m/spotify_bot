@@ -1,2 +1,2 @@
 # spotify_bot
-Bot per vedere quale canzone è in riproduzione sul proprio Spotify account
+Bot telegram per controllare la riproduzione sul proprio Spotify account
